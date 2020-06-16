@@ -1,0 +1,9 @@
+name: project_environment
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - matplotlib.pyplot
+  - operator
+  
