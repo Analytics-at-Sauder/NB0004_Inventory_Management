@@ -4,9 +4,12 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
-  - matplotlib.pyplot
+  - python
+ pip:
   - operator
   - mpl_toolkits
   - Axes3D
-  - python
+  - matplotlib.pyplot
+  
+  
   
