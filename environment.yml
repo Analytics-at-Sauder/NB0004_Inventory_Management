@@ -1,16 +1,16 @@
 name: project_environment
 dependencies:
-  - numpy
-  - pandas
-  - matplotlib
-  - seaborn
-  - python
-  - another dependencies, except not found ones
-  - pip:
-   - operator
-   - mpl_toolkits
-   - Axes3D
-   - matplotlib.pyplot
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- python
+- another dependencies, except not found ones
+- pip:
+- operator
+- mpl_toolkits
+- Axes3D
+- matplotlib.pyplot
   
   
   
