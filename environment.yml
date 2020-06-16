@@ -5,11 +5,12 @@ dependencies:
   - matplotlib
   - seaborn
   - python
- pip:
-  - operator
-  - mpl_toolkits
-  - Axes3D
-  - matplotlib.pyplot
+  - another dependencies, except not found ones
+  - pip:
+   - operator
+   - mpl_toolkits
+   - Axes3D
+   - matplotlib.pyplot
   
   
   
