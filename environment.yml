@@ -6,4 +6,6 @@ dependencies:
   - seaborn
   - matplotlib.pyplot
   - operator
+  - mpl_toolkits
+  - Axes3D
   
